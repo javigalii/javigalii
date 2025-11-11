@@ -38,7 +38,7 @@ Mi perfil profesional — proyectos, aprendizaje y código.
 `Git` · `GitHub`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,php,html,css,bootstrap,react,angular,laravel,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,js,php,html,css,bootstrap,react,angular,laravel,mysql,springboot,git,github" />
 </div>
 
 ---
