@@ -1,4 +1,4 @@
-# javigalii-dev
+# javigalii
 Mi perfil profesional — proyectos, aprendizaje y código.
 
 <!-- 👋 Perfil profesional de GitHub - Javi -->
