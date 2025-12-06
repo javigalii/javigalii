@@ -1,63 +1,85 @@
-# javigalii
-Mi perfil profesional — proyectos, aprendizaje y código.
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <h1>¡Hola, soy Javi!</h1>
+</div>
 
-<!-- 👋 Perfil profesional de GitHub - Javi -->
-
-<h1 align="center">¡Hola, soy Javi! 👨‍💻</h1>
+<h3 align="center">
+  👨‍💻 Desarrollador de Aplicaciones Web (DAW)
+</h3>
 
 <p align="center">
-  Desarrollador web con pasión por crear soluciones eficientes, limpias y visualmente atractivas.  
-  En constante aprendizaje para combinar **creatividad + lógica** en cada proyecto.
+  <em>"Combinando creatividad y lógica en cada línea de código."</em>
+</p>
+
+<p align="center">
+  <a href="https://javigali.dev" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visita_mi_Porfolio-javigali.dev-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website">
+  </a>
 </p>
 
 ---
 
 ### 🚀 Sobre mí
-- 🎓 **Desarrollador de Aplicaciones Web (DAW)**
-- 💡 Me especializo en **Java, PHP, JavaScript** y bases de datos relacionales  
-- 🔍 Interesado en el **desarrollo full stack**, integrando frontend y backend  
-- 🧠 Siempre explorando nuevas tecnologías y frameworks para mejorar mis proyectos  
+
+Soy un desarrollador apasionado por crear soluciones **eficientes, limpias y escalables**. Mi enfoque actual está en el **Desarrollo Full Stack**, integrando la robustez del backend con Java/PHP y la interactividad del frontend moderno.
+
+- 🔭 Actualmente trabajando en proyectos con **Spring Boot y React**.
+- 🌱 Aprendiendo continuamente sobre **Arquitectura de Software y Cloud**.
+- 💡 Me especializo en **Java, PHP y Bases de Datos**.
+- ⚡ Dato curioso: Me encanta encontrar la forma más óptima de resolver un problema complejo.
 
 ---
 
-### 🛠️ Tecnologías y herramientas
-
-#### 💬 Lenguajes
-`Java` · `JavaScript` · `PHP` · `PL/SQL`
-
-#### 🗄️ Bases de datos
-`MySQL` · `Oracle` · `MariaDB` · `XML`
-
-#### 🌐 Desarrollo web
-`HTML` · `CSS` · `Bootstrap` · `React` · `Angular` · `Laravel`
-
-#### ⚙️ Frameworks y entornos
-`Spring Boot` · `Eclipse` · `IntelliJ IDEA`
-
-#### 🧩 Control de versiones
-`Git` · `GitHub`
+### 🛠️ Arsenal Tecnológico
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,php,html,css,bootstrap,react,angular,laravel,mysql,git,github" />
+
+| **Frontend** | **Backend** | **Base de Datos** | **Herramientas** |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap" /> | <img src="https://skillicons.dev/icons?i=java,php,laravel,spring" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> | <img src="https://skillicons.dev/icons?i=git,github,idea,eclipse" /> |
+
 </div>
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Actividad en GitHub
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javigalii&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javigalii&theme=tokyonight" alt="Racha de commits" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javigalii&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=javigalii&show_icons=true&theme=tokyonight&hide_border=true" alt="Javi's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javigalii&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javigalii&theme=tokyonight&hide_border=true" alt="Racha de commits" />
 </div>
 
 ---
 
-### 🌐 Encuéntrame
+### 📬 Conectemos
+
+<div align="center">
+
+  <a href="https://javigali.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-javigali.dev-333?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/franciscojaviergalian/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:galianpinerojavier@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</div>
+
+<br>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/franciscojaviergalian/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:galianpinerojavier@gmail.com"><img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-
----
-
-<h3 align="center">✨ “La creatividad es inteligencia divirtiéndose.” — Albert Einstein ✨</h3>
