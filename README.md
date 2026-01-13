@@ -23,7 +23,7 @@
 
 Soy un desarrollador apasionado por crear soluciones **eficientes, limpias y escalables**. Mi enfoque actual está en el **Desarrollo Full Stack**, integrando la robustez del backend con Java/PHP y la interactividad del frontend moderno.
 
-- 🔭 Actualmente trabajando en proyectos con **Spring Boot y React**.
+- 🔭 Actualmente trabajando en proyectos con **Spring Boot y Angular**.
 - 🌱 Aprendiendo continuamente sobre **Arquitectura de Software y Cloud**.
 - 💡 Me especializo en **Java, PHP y Bases de Datos**.
 - ⚡ Dato curioso: Me encanta encontrar la forma más óptima de resolver un problema complejo.
