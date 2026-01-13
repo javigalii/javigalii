@@ -36,26 +36,8 @@ Soy un desarrollador apasionado por crear soluciones **eficientes, limpias y esc
 
 | **Frontend** | **Backend** | **Base de Datos** | **Herramientas** |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap" /> | <img src="https://skillicons.dev/icons?i=java,php,laravel,spring" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> | <img src="https://skillicons.dev/icons?i=git,github,idea,eclipse" /> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap,tailwind" /> | <img src="https://skillicons.dev/icons?i=java,php,laravel,spring,js" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> | <img src="https://skillicons.dev/icons?i=git,github,idea,eclipse" /> |
 
-</div>
-
----
-
-### 📊 Actividad en GitHub
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=javigalii&show_icons=true&theme=tokyonight&hide_border=true" alt="Javi's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javigalii&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javigalii&theme=tokyonight&hide_border=true" alt="Racha de commits" />
 </div>
 
 ---
