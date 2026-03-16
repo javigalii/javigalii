@@ -36,7 +36,7 @@ Soy un desarrollador apasionado por crear soluciones **eficientes, limpias y esc
 
 | **Frontend** | **Backend** | **Base de Datos** | **Herramientas** |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap,tailwind" /> | <img src="https://skillicons.dev/icons?i=java,php,laravel,spring,js" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> | <img src="https://skillicons.dev/icons?i=git,github,idea" /> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap,tailwind" /> | <img src="https://skillicons.dev/icons?i=java,php,laravel,spring,js,cobol" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> | <img src="https://skillicons.dev/icons?i=git,github,idea" /> |
 
 </div>
 
