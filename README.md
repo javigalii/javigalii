@@ -4,11 +4,11 @@
 </div>
 
 <h3 align="center">
-  👨‍💻 Desarrollador de Aplicaciones Web (DAW)
+  👨‍💻 Analista Programador COBOL | Mainframe z/OS
 </h3>
 
 <p align="center">
-  <em>"Combinando creatividad y lógica en cada línea de código."</em>
+  <em>"Del legacy a lo moderno: lógica sólida en cada línea de código."</em>
 </p>
 
 <p align="center">
@@ -21,12 +21,12 @@
 
 ### 🚀 Sobre mí
 
-Soy un desarrollador apasionado por crear soluciones **eficientes, limpias y escalables**. Mi enfoque actual está en el **Desarrollo Full Stack**, integrando la robustez del backend con Java/PHP y la interactividad del frontend moderno.
+Analista Programador COBOL con experiencia en desarrollo y mantenimiento de aplicaciones **mainframe (z/OS)** en proyectos de transformación de sistemas legacy. Mi background en desarrollo web (Java, PHP, Spring Boot, Angular) me aporta una visión más amplia para entender integraciones y modernización de sistemas.
 
-- 🔭 Actualmente trabajando en proyectos con **Spring Boot y Angular**.
-- 🌱 Aprendiendo continuamente sobre **Arquitectura de Software y Cloud**.
-- 💡 Me especializo en **Java, PHP y Bases de Datos**.
-- ⚡ Dato curioso: Me encanta encontrar la forma más óptima de resolver un problema complejo.
+- 🔭 Actualmente trabajando en **transformación de sistemas legacy**: COBOL, JCL, DB2 y CICS sobre z/OS.
+- 🌱 Ampliando conocimientos en **procesos online (CICS)** y buenas prácticas en entornos mainframe.
+- 💡 Me especializo en **COBOL, Java, PHP y Bases de Datos**.
+- ⚡ Dato curioso: me apasiona entender cómo conviven los sistemas legacy con las arquitecturas modernas.
 
 ---
 
@@ -34,9 +34,9 @@ Soy un desarrollador apasionado por crear soluciones **eficientes, limpias y esc
 
 <div align="center">
 
-| **Frontend** | **Backend** | **Base de Datos** | **Herramientas** |
+| **Mainframe** | **Backend / Web** | **Base de Datos** | **Herramientas** |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,bootstrap,tailwind" /> | <img src="https://skillicons.dev/icons?i=java,php,laravel,spring,js" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> | <img src="https://skillicons.dev/icons?i=git,github,idea" /> |
+| COBOL · JCL · CICS · z/OS · TSO/ISPF | <img src="https://skillicons.dev/icons?i=java,php,laravel,spring,js,react,angular" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres" /> DB2 | <img src="https://skillicons.dev/icons?i=git,github,idea" /> |
 
 </div>
 
@@ -45,7 +45,6 @@ Soy un desarrollador apasionado por crear soluciones **eficientes, limpias y esc
 ### 📬 Conectemos
 
 <div align="center">
-
   <a href="https://javigali.dev" target="_blank">
     <img src="https://img.shields.io/badge/Website-javigali.dev-333?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
@@ -57,7 +56,6 @@ Soy un desarrollador apasionado por crear soluciones **eficientes, limpias y esc
   <a href="mailto:galianpinerojavier@gmail.com">
     <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
 </div>
 
 <br>
