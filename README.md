@@ -4,7 +4,7 @@
 </div>
 
 <h3 align="center">
-  👨‍💻 Analista Programador COBOL | Mainframe z/OS
+  👨‍💻 Analista COBOL | Mainframe z/OS
 </h3>
 
 <p align="center">
